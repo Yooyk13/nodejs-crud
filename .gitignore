@@ -1,5 +1,4 @@
 build/
-dd/
 coverage/
 npm-debug.log
 box-node-express-skeleton-app/app/config/local.js
