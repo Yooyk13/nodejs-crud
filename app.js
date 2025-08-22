@@ -7,7 +7,7 @@ require("dotenv").config();
 
 app.use(express.json());
 
-const Port = process.env.PORT || 7000;
+const Port = process.env.PORT || 3000;
 
 const connectDb = async () => {
   try {
